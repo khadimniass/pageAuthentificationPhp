@@ -149,3 +149,9 @@ a{color:inherit;text-decoration:none}
 .foot-lnk{
 	text-align:center;
 }
+div.middle
+{
+    min-height: 30em;
+    display: table-cell;
+    vertical-align: middle;
+}
